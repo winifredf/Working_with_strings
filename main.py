@@ -1,3 +1,3 @@
 phrase = ("It's a beautiful day!")
 
-print(phrase.upper())
+print(phrase.isupper())
