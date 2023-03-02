@@ -1,3 +1,3 @@
 phrase = ("It's a beautiful day!")
 
-print(len(phrase))
+print(phrase[0])
