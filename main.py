@@ -1,1 +1,1 @@
-print("It's a\nbeautiful day!")
+print("It's a\"beautiful day!")
