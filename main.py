@@ -1,1 +1,3 @@
-print("It's a \ beautiful day!")
+phrase = ("It's a beautiful day!")
+
+print(phrase)
